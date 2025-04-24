@@ -54,5 +54,8 @@ from typing import Union, Any
 # money += add
 # print(money)
 # задача 9
-users =['user1', 'user2', 'user3', 'user1', 'user4', 'user2']
-dict_ ={"Общее количество": 0, "Уникальные посещения": 0}
+group_124 = ['даша', 'соня','фатима', 'лиза', 'алина', 'эвелина', 'элеонора', 'рита', 'полина', 'юра', 'илья', 'катя']
+group_1 = group_124[:6]
+print(group_1)
+group_2 = group_124[6:]
+print(group_2)
