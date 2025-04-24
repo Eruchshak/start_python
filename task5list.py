@@ -39,4 +39,20 @@ from typing import Union, Any
 # f = ["яблоко", "банан", "опельсин", "виноград"]
 # f[2] = "апельсин"
 # print(f)
-
+# задача 7
+# speed = 4096 / 1024
+# time = 120 * 60
+# cost = 0.125
+# free = 500
+# file = time * speed
+# money = (file - free) * cost
+# print(file)
+# print(money)
+# задача 8
+# money = 10000
+# add = 5000
+# money += add
+# print(money)
+# задача 9
+users =['user1', 'user2', 'user3', 'user1', 'user4', 'user2']
+dict_ ={"Общее количество": 0, "Уникальные посещения": 0}
